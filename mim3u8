@@ -1,5 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/cropped-icon_small-192x192.jpg" ,ABC
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-country="ITALIA" tvg-logo="" group-title="Undefined" ,BFC 
 
-https://s6.ustvgo.org/ABC/myStream/chunks.m3u8?nimblesessionid=7964051&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIxIDY6MTQ6NDEgUE0maGFzaF92YWx1ZT1OQjFzRlpjTXlaeHRXTStYdjBSSWR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+FORBES
+
+https://backup.superstreaming.inaria.me/BFC/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-country="ESPANA" tvg-logo="" group-title="Undefined" ,24H RTVE
+
+https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-country="ESPANA" tvg-logo="" group-title="Undefined" ,GALICIA 
+
+TV AMERICA
+http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-country="ESPANA" tvg-logo="" group-title="Undefined" ,ARAGON 
+
+TV
+
+https://streamer97.server.aranova.cloud/cls/live/aragontv_canal1_1000/index.m3u8?
+
+vv=CO&h=VqxkDDZt4Rs4ulZ-uyEWKQ&e=31363136303332393233&r=4008
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-country="ESPANA" tvg-logo="" group-title="Undefined" ,GALICIA 
+
+TV EUROPA
+
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
