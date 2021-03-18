@@ -264,7 +264,7 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Hunt Channel" tvg-id="houselive.gov" group-title="USA" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-name="Investment Pitch" tvg-id=Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
+#EXTINF:-1 tvg-name="Investment Pitch" tvg-id="Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ion Plus" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="USA",Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
@@ -288,7 +288,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mav TV" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="USA",Mav TV
 https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV 
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lwzdz8U.png" group-title="USA",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
