@@ -211,7 +211,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA",CBN News Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 tvg-name="CBSN" tvg-id="CBSN" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBSN
@@ -416,3 +415,139 @@ https://yuyu-samsung.samsung.wurl.com/manifest/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="USA",ZooMoo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="*** USA TVS *** Free-IPTV" group-title="USA TVS" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA TVS *** Free-IPTV
+https://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Main Street 
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Nostalgia Movies Network
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Quiz Show Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Sitcom
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Tavern TV
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Travel Network 
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Television Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Today Home Entertainment Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Western Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Women´s Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 tvg-name="Alright TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Alright TV
+https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
+#EXTINF:-1 tvg-name="Answers That Count" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Answers That Count
+https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
+#EXTINF:-1 tvg-name="Battery Pop" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Battery Pop
+https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
+#EXTINF:-1 tvg-name="C3 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",C3 
+https://nrpus.bozztv.com/36bay2/gusa-c3/index.m3u8
+#EXTINF:-1 tvg-name="Camera Smile TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Camera Smile TV
+https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-name="Captiva TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Captiva TV
+https://nrpus.bozztv.com/36bay2/gusa-wanztv/index.m3u8
+#EXTINF:-1 tvg-name="Chef Roc" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Chef Roc
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-name="Dimensions" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Dimensions
+https://nrpus.bozztv.com/36bay2/gusa-dimensions/index.m3u8
+#EXTINF:-1 tvg-name="Funny Bone TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Funny Bone TV
+https://nrpus.bozztv.com/36bay2/gusa-funnybone/index.m3u8
+#EXTINF:-1 tvg-name="Georgia Hollywood" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Georgia Hollywood
+https://nrpus.bozztv.com/36bay2/gusa-gh/index.m3u8
+#EXTINF:-1 tvg-name="Giniko Classic Cinema TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Giniko Classic Cinema TV
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-name="iRead2Know" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",iRead2Know
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/index.m3u8
+#EXTINF:-1 tvg-name="iShe TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",iShe TV
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+#EXTINF:-1 tvg-name="Kid Central" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Kid Central
+https://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:-1 tvg-name="Lifestyle" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Lifestyle
+https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
+#EXTINF:-1 tvg-name="Lionel Nation" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Lionel Nation
+https://nrpus.bozztv.com/36bay2/gusa-ln/index.m3u8
+#EXTINF:-1 tvg-name="Loomered TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Loomered TV
+https://nrpus.bozztv.com/36bay2/gusa-loomered/index.m3u8
+#EXTINF:-1 tvg-name="Mad Dog and Merrill" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Mad Dog and Merrill
+https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-name="MVP TV Network" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",MVP TV Network
+https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
+#EXTINF:-1 tvg-name="MYTHOS" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",MYTHOS
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 tvg-name="Outdoor Lifestyle" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Outdoor Lifestyle
+https://bozztv.com/36bay2/gusa-outdoorlifstyle/index.m3u8
+#EXTINF:-1 tvg-name="Planet Music" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Planet Music
+https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
+#EXTINF:-1 tvg-name="Race Central TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Race Central TV
+https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
+#EXTINF:-1 tvg-name="Ready Set Action" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Ready Set Action
+https://nrpus.bozztv.com/36bay2/gusa-readysetaction/index.m3u8
+#EXTINF:-1 tvg-name="Real Family TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Real Family TV
+https://nrpus.bozztv.com/36bay2/gusa-realfamily/index.m3u8
+#EXTINF:-1 tvg-name="Rope2Rope - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Rope2Rope 
+https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
+#EXTINF:-1 tvg-name="Sim Si TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Sim Si TV
+https://nrpus.bozztv.com/36bay2/gusa-simsitv/index.m3u8
+#EXTINF:-1 tvg-name="SlapTech" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",SlapTech
+https://nrpus.bozztv.com/36bay2/gusa-slaptech/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV Plus" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",SPORT TV Plus
+https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
+#EXTINF:-1 tvg-name="Switch" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Switch
+https://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
+#EXTINF:-1 tvg-name="The Syndicate" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",The Syndicate
+https://nrpus.bozztv.com/36bay2/gusa-thesyndicate/index.m3u8
+#EXTINF:-1 tvg-name="Thrillerz" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Thrillerz
+https://nrpus.bozztv.com/36bay2/gusa-thrillerz/index.m3u8
+#EXTINF:-1 tvg-name="Travel & Food TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Travel & Food TV
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:-1 tvg-name="Veteran's Success TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Veteran's Success TV
+https://nrpus.bozztv.com/36bay2/gusa-veteransuccess/index.m3u8
+#EXTINF:-1 tvg-name="xCorp" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",xCorps
+https://nrpus.bozztv.com/36bay2/gusa-xcorps/index.m3u8
+#EXTINF:-1 tvg-name="xZone" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",xZone
+https://nrpus.bozztv.com/36bay2/gusa-xzone/index.m3u8
+#EXTINF:-1 tvg-name="Youth Success" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",Youth Success
+https://nrpus.bozztv.com/36bay2/gusa-youthsuccess/index.m3u8
