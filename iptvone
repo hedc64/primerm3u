@@ -420,3 +420,288 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="" group-title="USA LOCAL",|USA| Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 
+
+#EXTINF:-1 group-title="LATIN AMERICA",|EXT| CGTN Español  
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|EXT| RT Español 
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|EXT| GARAGE TV AUTOS Español
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://perezvitola.com/wp-content/uploads/2017/07/cctvspan-1132x670.png" group-title="LATIN AMERICA",|EXT| CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="LATIN AMERICA;MEXICO;INFANTIL",|MEX| Zee Mundo 
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA;MEXICO;INFANTIL",|MEX| ADN 40 
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA;MEXICO;INFANTIL",|MEX| Canal 4 Saltillo 
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA;MEXICO;NOTICIAS",|MEX| Canal 10 Cancun 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA;MEXICO;NOTICIAS",|MEX| Canal 10 Cancun 
+http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal Once Nacional 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal Once Internacional 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Justicia TV (Opt-2) 
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| MVM Noticias Oaxaca 
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| RCG 1 Saltillo 
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| RCG 2 Saltillo 
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+ #EXTINF:-1 group-title="LATIN AMERICA",|MEX| RCG 3 Saltillo 
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+ #EXTINF:-1 group-title="LATIN AMERICA",|MEX| RTQ Queretaro 
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Sipse TV Cancun 
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Telemax Hermosillo 
+http://s5.mexside.net:1935/telemax/telemax/.m3u8 
+ #EXTINF:-1 group-title="LATIN AMERICA",|MEX| Transmedia TV Morelia 
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| ADN 40 
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| ALCARRIA TV 
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| CANAL 10 CANCUN 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal 10 Cancún 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal Once 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| EWTN 
+http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8   
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| MONTE MARIA
+http://162.212.176.51:1935/live/myStream/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| RTQ 
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv  
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| RTQ Queretaro 
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Uno TV 
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8  
+
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| 13 Max 
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| 5TV Corrientes 
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| ATB TV 
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| ATB TV  
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Canal 4 Posadas 
+http://184.154.28.210:1935/canal4/canal4/live.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Canal 10 Rio Negro  
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Canal 13 La Rioja 
+http://arcast.net:1935/mp/mp/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Canal 26 
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Chacra TV 
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Ciudad TV Chaco 
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| CN 24/7 
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| CPEtv La Pampa 
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Eco TV Tandil 
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| LA 90 FM 
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Litus TV Santa Fe 
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Medios Rioja 
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Music Top 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| RTN Neuquen 
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| TeleNord Corrientes 
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| Tierramia TV 
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ARG| TV Universidad Nacional de La Plata 
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8  
+
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Alegria TV 
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| AM Canal 
+http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8?fluxustv.m3u8   
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Antofagasta TV 
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Campus TV 
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| CDtv 
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| El Pinguino TV  
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Holvoet TV 
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Portal Foxmix 
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Rocco TV 
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8?fluxustv.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Ruidos TV 
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| Teletrak 
+http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| TV5 Linares 
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| TVO San Vicente 
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| UTV San Clemente 
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|CHI| VC Online Santiago 
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|ECU| Hechos TV 
+http://37.187.7.106/hechostv/live.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ECU| UCSG  
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|ECU| UCSG 
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Cali TV 
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Canal CNC Pasto 
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Mundo Mas 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Suram TV 
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Telecaribe 
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| Teleislas (Opt-1) 
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|COL| UAO Play 
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| BHTV 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| BHTV 
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Central TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Cultura 24 
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Cultura 24 
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Monterrico TV 
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Ovacion 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|PER| Turbo Mix Radio TV 
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8  
+#EXTINF:0 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="LATIN AMERICA",|PER| Visión Tv 
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w784862483.m3u8
+#EXTINF:0 tvg-logo="http://www.visiontv.com.pe/vnp.pe/images/test/logo_23.png" group-title="LATIN AMERICA",|PER| Visión Tv Noticias 
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w418927256.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/7uLix6NZqhA8YX93r-WXwXt3E4dkYvmamvhXcAPs_fxBtjKoX_DW2ogl7aox-gTvP_w=s180-rw" group-title="LATIN AMERICA",|PER| Vía Tv 
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w979451812.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c96f9ace23f67b9e02fa0ec30dd2f756.png" group-title="LATIN AMERICA",|PER| Top LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1870266699.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="LATIN AMERICA",|PER| Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w372022036.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="LATIN AMERICA",|PER| Antares Tv
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w1980783486.m3u8
+#EXTINF:0 tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="LATIN AMERICA",|PER| Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
+#EXTINF:0 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg" group-title="LATIN AMERICA",|PER| Ovación Tv
+https://5c3fb01839654.streamlock.net:554/iptvovacion1/liveovacion1tv/chunklist_w685479492.m3u8
+#EXTINF:0 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="LATIN AMERICA",|PER| Mega Tv
+https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1394811557.m3u8
+#EXTINF:0 tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="LATIN AMERICA",|PER| Kariveña Tv
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:0 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png"group-title="LATIN AMERICA",|PER|  BC CUMBIA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/logo.png"group-title="LATIN AMERICA",|PER| BC CUMBIA
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w206207165_b964000_sles.m3u8
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/centraltv.png?resize=218%2C150"group-title="LATIN AMERICA",|PER| Central Tv 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1981193369.m3u8
+#EXTINF:0 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg"group-title="LATIN AMERICA",|PER| BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1530744654.m3u8
+
+
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| 88 Stereo 
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| Anexion TV 36 
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| Colosal TV 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| Extrema TV 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| Telesur 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| TeleUno TV 
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|COS| TicaVision 
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
+
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Ame 
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Carivision 
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Faro Vision 
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Info TDN 
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Microvision 10 
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Onda TV 10 
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Puñal TV 
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Ready TV 
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Romana TV 42 
+http://tv.romanatv42.com/hls/live.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Super TV 55 
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Telecanal 28 
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Telefuturo 23 
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Telemilenio Canal 50 
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Telenord 10 (Opt-1) 
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Telenord 12 (Opt-1
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| Television del Este 
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8 
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| TV Montaña 10 
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| TV Plata 3 
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|DOM| TVS Canal 22 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|SAL| Wow TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|HON| Campus TV 
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|HON| Sercano TV 
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8   
+#EXTINF:-1 group-title="LATIN AMERICA",|HON| TEN Canal 10 
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 group-title="LATIN AMERICA",|VEN| TeleSUR 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|VEN| TeleSUR 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|VEN| Televisora de Oriente 
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|VEN| Vepaco TV 
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",|BOL| RTP 
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8  
+#EXTINF:-1 group-title="LATIN AMERICA",|GUI| TVGE Int. 
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8  
