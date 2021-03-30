@@ -423,11 +423,11 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="*** LATIN AMERICA *** Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="LATIN AMERICA",*** LATIN AMERICA *** Free-IPTV
 http://
 
-#EXTINF:-1 group-title="LATIN AMERICA",|EXT| CGTN Español  
+#EXTINF:-1 group-title="LATIN AMERICA",|EXT| CGTN Español(Infantil,Noticias)  
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",|EXT| RT Español 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8 
-#EXTINF:-1 group-title="LATIN AMERICA",|EXT| GARAGE TV AUTOS Español
+#EXTINF:-1 group-title="LATIN AMERICA",|EXT| GARAGE TV AUTOS Español(Noticias,Carreras)
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://perezvitola.com/wp-content/uploads/2017/07/cctvspan-1132x670.png" group-title="LATIN AMERICA",|EXT| CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -486,7 +486,7 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8 
 #EXTINF:-1 group-title="LATIN AMERICA",|MEX| Uno TV 
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8  
 
-#EXTINF:-1 group-title="LATIN AMERICA",|ARG| 13 Max 
+#EXTINF:-1 group-title="LATIN AMERICA" subgroup="argentina",|ARG| 13 Max 
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",|ARG| 5TV Corrientes 
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
