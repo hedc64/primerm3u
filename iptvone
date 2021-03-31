@@ -422,7 +422,7 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="LATIN AMERICA" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="LATIN AMERICA",*** LATIN AMERICA *** Free-IPTV
 http://
 
-#EXTINF:-1 tvg-name="[COLOR ORANGE]EXTERIOR[/COLOR]" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="LATIN AMERICA",*** EXTERIOR *** 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="LATIN AMERICA",[color orange][b][i]*** EXTERIOR ***[/color][/b][i] 
 http://
 
 #EXTINF:-1 group-title="LATIN AMERICA",|EXT| CGTN Español  
