@@ -1,4 +1,4 @@
-#EXTM3U $Exfilter="Colon"
+#EXTM3U $ Exfilter="Colon"
 
 #EXTINF:-1 tvg-name="*** SPAIN *** Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN *** Free-IPTV
 http://
