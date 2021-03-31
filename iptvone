@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U $Exfilter="Colon"
 
 #EXTINF:-1 tvg-name="*** SPAIN *** Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN *** Free-IPTV
 http://
@@ -407,7 +407,6 @@ https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST" tvg-name="DUST" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fc4a690f-2c95-4600-974c-10fa3b390b07-small3x1_stirr_1219_epg_dust_1920x10802.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="USA LOCAL",|USA| DUST
 http://dust.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTM3U $ Exfilter="GRINGOS"
 
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA LOCAL",|USA| Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -432,7 +431,6 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 #EXTINF:-1 tvg-logo="https://perezvitola.com/wp-content/uploads/2017/07/cctvspan-1132x670.png" group-title="LATIN AMERICA",|EXT| CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTM3U $ Exfilter="LATINOS"
 
 #EXTINF:-1 group-title="LATIN AMERICA",|MEX| Zee Mundo 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8 
@@ -442,7 +440,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal 10 Cancun 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA;",|MEX| Canal 10 Cancun 
+#EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal 10 Cancun 
 http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8 
 #EXTINF:-1 group-title="LATIN AMERICA",|MEX| Canal Once Nacional 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
