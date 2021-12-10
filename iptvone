@@ -8,9 +8,6 @@ https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8 
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://perezvitola.com/wp-content/uploads/2017/07/cctvspan-1132x670.png" group-title="LATIN AMERICA",|EXT| CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA",|EXT| DW en Vivo Español  
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639022406/ei/5iqxYay_H4aB4QTY-7CgCQ/ip/45.177.108.118/id/bKpGAHgpYoU.22/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdOLWs3j8RFA3CKmoR4v4Z6rnlI9CED1Te1KwqlAsnOICIQCdxSyr-eO2kM_snaaR744gGKKufxEZ9vZzb17Ku81CWg%3D%3D/file/index.m3u8
-
 
 #EXTINF:-1 group-title="MEXICO",|MEX| Zee Mundo 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8 
