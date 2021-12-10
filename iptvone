@@ -1031,7 +1031,6 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
-#EXTM3U
 #EXTINF:-1,group-title="~ALEMAN",Aleman 1
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1,group-title="~ALEMAN",Aleman 3
