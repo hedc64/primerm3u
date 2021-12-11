@@ -194,8 +194,6 @@ http://184.173.181.2:1935/8060/8060/playlist.m3u8
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA",|DOM| Microvision 10 
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8  
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA",|DOM| Onda TV 10 
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8  
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA",|DOM| Puñal TV 
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8  
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA",|DOM| Ready TV 
