@@ -2,59 +2,35 @@
 
 #EXTINF:-1 group-title="LATIN AMERICA",|EXT| CGTN Español  
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA",|EXT| RT Español 
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8 
 #EXTINF:-1 group-title="LATIN AMERICA",|EXT| GARAGE TV AUTOS Español
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://perezvitola.com/wp-content/uploads/2017/07/cctvspan-1132x670.png" group-title="LATIN AMERICA",|EXT| CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 group-title="MEXICO",|MEX| Zee Mundo 
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="MEXICO",|MEX| ADN 40 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 group-title="MEXICO",|MEX| Canal 4 Saltillo 
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",|MEX| Canal 10 Cancun 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",|MEX| Canal 10 Cancun 
-http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8 
-#EXTINF:-1 group-title="MEXICO",|MEX| Canal Once Nacional 
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",|MEX| Canal Once Internacional 
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",|MEX| Justicia TV  
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8 
 #EXTINF:-1 group-title="MEXICO",|MEX| MVM Noticias Oaxaca 
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 group-title="MEXICO",|MEX| RCG 1 Saltillo 
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8  
 #EXTINF:-1 group-title="MEXICO",|MEX| RCG 2 Saltillo 
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
  #EXTINF:-1 group-title="MEXICO",|MEX| RCG 3 Saltillo 
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
  #EXTINF:-1 group-title="MEXICO",|MEX| RTQ Queretaro 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="MEXICO",|MEX| Sipse TV Cancun 
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",|MEX| Telemax Hermosillo 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8 
  #EXTINF:-1 group-title="MEXICO",|MEX| Transmedia TV Morelia 
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8  
-#EXTINF:-1 group-title="MEXICO",|MEX| ADN 40 
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8  
 #EXTINF:-1 group-title="MEXICO",|MEX| ALCARRIA TV 
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="MEXICO",|MEX| CANAL 10 CANCUN 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 #EXTINF:-1 group-title="MEXICO",|MEX| Canal 10 Cancún 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv  
-#EXTINF:-1 group-title="MEXICO",|MEX| Canal Once 
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8  
 #EXTINF:-1 group-title="MEXICO",|MEX| EWTN 
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8   
-#EXTINF:-1 group-title="MEXICO",|MEX| MONTE MARIA
-http://162.212.176.51:1935/live/myStream/playlist.m3u8  
 #EXTINF:-1 group-title="MEXICO",|MEX| RTQ 
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv  
 #EXTINF:-1 group-title="MEXICO",|MEX| RTQ Queretaro 
