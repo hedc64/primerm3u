@@ -144,16 +144,12 @@ http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 group-title="PERU",|PER| Ovacion 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="PERU",|PER| Turbo Mix Radio TV 
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8  
 #EXTINF:-1 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="PERU",|PER| Visión Tv 
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w784862483.m3u8
 #EXTINF:-1 tvg-logo="http://www.visiontv.com.pe/vnp.pe/images/test/logo_23.png" group-title="PERU",|PER| Visión Tv Noticias 
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w418927256.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7uLix6NZqhA8YX93r-WXwXt3E4dkYvmamvhXcAPs_fxBtjKoX_DW2ogl7aox-gTvP_w=s180-rw" group-title="PERU",|PER| Vía Tv 
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w979451812.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c96f9ace23f67b9e02fa0ec30dd2f756.png" group-title="PERU",|PER| Top LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1870266699.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="PERU",|PER| Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w372022036.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="PERU",|PER| Antares Tv
@@ -162,8 +158,6 @@ https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w19
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 #EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg" group-title="PERU",|PER| Ovación Tv
 https://5c3fb01839654.streamlock.net:554/iptvovacion1/liveovacion1tv/chunklist_w685479492.m3u8
-#EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="PERU",|PER| Mega Tv
-https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1394811557.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="PERU",|PER| Kariveña Tv
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png"group-title="PERU",|PER|  BC CUMBIA
