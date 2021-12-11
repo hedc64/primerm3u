@@ -345,64 +345,8 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="WoW TV" tvg-logo="https://i.imgur.com/6ahdqaT.jpg" group-title="SPAIN",|SPA| WoW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Boxing Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Classic Movies
-http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Classic Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Drive-in Movie
-http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Family Channel
-http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Film Noir Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Flashback Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Front Page Detective
-https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Frontier
-https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Hi Tops
-https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Hollywood History
-http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Horror
-https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Inspirational Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Main Street 
-https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Music Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Nostalgia
-https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Nostalgia Movies Network
-http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Quiz Show Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Select Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Sitcom
-https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Sports Network
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Tally Ho
-https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Tavern TV
-https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Turbo Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Travel Network 
-https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Television Network
-http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Today Home Entertainment Network
-https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Western Movie
 http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",|USA| Women´s Sports Network
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-name="Alright TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA TVS",|USA| Alright TV
 https://nrpus.bozztv.com/36bay2/gusa-alright/index.m3u8
