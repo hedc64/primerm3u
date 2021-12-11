@@ -99,10 +99,6 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8  
 #EXTINF:-1 group-title="CHILE",|CHI| TV5 Linares 
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8  
-#EXTINF:-1 group-title="CHILE",|CHI| TVO San Vicente 
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8  
-#EXTINF:-1 group-title="CHILE",|CHI| UTV San Clemente 
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8  
 #EXTINF:-1 group-title="CHILE",|CHI| VC Online Santiago 
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
