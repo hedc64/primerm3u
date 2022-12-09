@@ -8749,3 +8749,13 @@ http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 #EXTINF:-1,group-title="~~~ADULTOS +18",XXX.Vxtv45
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
+
+
+
+#EXTINF:-1,group-title="~~~CINE",Cine.Cancion de paz
+https://t.me/SalaCine/531
+#EXTINF:-1,group-title="~~~CINE",Cine.Con canas a lo loco
+https://t.me/SalaCine/529
+#EXTINF:-1,group-title="~~~CINE",Cine.Ash & Dust
+https://t.me/SalaCine/527/playlist.m3u8
+
