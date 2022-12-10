@@ -8753,9 +8753,11 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
 
 #EXTINF:-1,group-title="~~~CINE",Cine.Cenicienta
-https://indexoftvseries.com/moon-knight-series/https://indexoftvseries.com/moon-knight-series/
+https://zp2.xcdn.to/p/c4a4dd34efed89bb/720p.m3u8?ip=179.1.129.135&ex=1670709100&fm=720p&tk=9e750f5a954d078e76348c296f726141
+
 #EXTINF:-1,group-title="~~~CINE",Cine.Con canas a lo loco
-http://54.39.52.63/PELICULA/Ver%20El%20Mundo%20Ardiente%20(2021)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
+https://zp2.xcdn.to/m/c4a4dd34efed89bb/master.m3u8?ak=a99d838bc563d2f05d06b7236639860f&vp=0&ex=1670709099&tk=34e410b9c176fd736ad4104edd8629d0
+
 #EXTINF:-1,group-title="~~~CINE",Cine.Ash & Dust
-http://54.39.52.63/PELICULA/Cenicienta.2021.1080P-Dual-Lat-Cinecalidad.ac.mp4
+https://zp2.xcdn.to/t/c4a4dd34efed89bb/thumbsheet.vtt
 
