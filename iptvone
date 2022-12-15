@@ -18,21 +18,23 @@ https://zp3.xcdn.to/m/9389fe4930944761/master.m3u8?ak=62c36c6272295cbe05fadf1813
 https://zp6.xcdn.to/p/c23fae56ade4553c/720p.m3u8?ip=179.1.129.135&ex=1671144337&fm=720p&tk=94bd24af97cc26118d948978bc1dc9bf
 #EXTINF:-1,group-title="~~~CINE",Cine. The Family
 https://zp3.xcdn.to/m/de4c1559090fdd51/master.m3u8?ak=de2e264ca2ee25b0d4b3d6802de41f24&vp=0&ex=1671144447&tk=622e874480235770997ae6fbc7dbd6bc
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 1 - The Ship
+
+
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 1 - The Ship
 https://zp4.xcdn.to/p/e4ab49fca9c4a7dd/720p.m3u8?ip=179.1.129.135&ex=1671153107&fm=720p&tk=2ec19e31afaa864279ad2f99a8917776
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 2 - The Boy
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 2 - The Boy
 https://zp2.xcdn.to/p/8c0b8488e7b88fbb/720p.m3u8?ip=179.1.129.135&ex=1671153220&fm=720p&tk=610f7c6d5794454da9e9b17e00e11eae
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 3 - The Fog
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 3 - The Fog
 https://zp5.xcdn.to/p/bf6cd9e936957059/720p.m3u8?ip=179.1.129.135&ex=1671153438&fm=720p&tk=9cf2d7d3fe4a5c2c8b5b7f065b77dd6a
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 4 - The Fight
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 4 - The Fight
 https://zp4.xcdn.to/p/23743a910ed8f74a/720p.m3u8?ip=179.1.129.135&ex=1671153459&fm=720p&tk=0a934deb6875ff4509af2f9f65e826c6
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 5 - The Calling
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 5 - The Calling
 https://zp2.xcdn.to/p/8d36f64a6bab59e0/720p.m3u8?ip=179.1.129.135&ex=1671153492&fm=720p&tk=8bf6d828d54213dcfaed542b3051983a
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 6 - The Pyramid
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 6 - The Pyramid
 https://zp2.xcdn.to/p/8931ea727dc37fbb/720p.m3u8?ip=179.1.129.135&ex=1671153609&fm=720p&tk=d4aa7c56d556780e6eab096f7055b3af
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 7 - The Storm
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 7 - The Storm
 https://zp3.xcdn.to/p/13d0a74147d0f8b3/720p.m3u8?ip=179.1.129.135&ex=1671153565&fm=720p&tk=2fe6062ef94d1522b65103595f805b31
-#EXTINF:-1,group-title="~~~CINE",Cine. 1899 - episodio 8 - The Key
+#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 8 - The Key
 https://zp5.xcdn.to/p/3013285da9e9b40b/720p.m3u8?ip=179.1.129.135&ex=1671152941&fm=720p&tk=7afb00581862183d4720b9fbded80774
 
 
