@@ -1,62 +1,62 @@
 #EXTM3U 
 
-#EXTINF:-1,group-title="~~~CINE",Cine. Emancipation
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. Emancipation
 https://zp9.xcdn.to/p/0f893b3fdcce8238/720p.m3u8?ip=179.1.129.135&ex=1671141905&fm=720p&tk=8a135a534b73a43dec39294597533d5d
-#EXTINF:-1,group-title="~~~CINE",Cine. The Deal
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The Deal
 https://zp3.xcdn.to/m/9a77055d6c04ec7e/master.m3u8?ak=ca3f2ede12b3c2512fab9905ebd96b51&vp=0&ex=1671142221&tk=a18c728d50333fc7bacf95728d946355
-#EXTINF:-1,group-title="~~~CINE",Cine. The Song To My Heart
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The Song To My Heart
 https://zp2.xcdn.to/m/c4a4dd34efed89bb/master.m3u8?ak=875d3cc03f9fdbdff8e63ee665eefc82&vp=0&ex=1671142453&tk=7af0d901b035cfc5c464a51ed1c05696
-#EXTINF:-1,group-title="~~~CINE",Cine. The Boss Baby
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The Boss Baby
 https://zp5.xcdn.to/m/7716ab336a3bb807/master.m3u8?ak=5bc85ce5fe6e32a9e8eaaae27ab3c0cb&vp=0&ex=1671143299&tk=1ff68e2340d6b25919bb5ef94d794145
-#EXTINF:-1,group-title="~~~CINE",Cine. My Nest Guest
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. My Nest Guest
 https://zp2.xcdn.to/m/cba063816ecac3e2/master.m3u8?ak=f7da63dc6c5f4ead8f8b0a947e9177cb&vp=0&ex=1671143947&tk=2110e65b00a1617ae1a4dae58359a976
-#EXTINF:-1,group-title="~~~CINE",Cine. Guardians Of Time
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. Guardians Of Time
 https://zp3.xcdn.to/m/d043a49b2087b900/master.m3u8?ak=ff0f8dce00b5becea765b1c1d43d16e5&vp=0&ex=1671144141&tk=ea1905906fa189353935d34d48159ba2
-#EXTINF:-1,group-title="~~~CINE",Cine. The System
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The System
 https://zp3.xcdn.to/m/9389fe4930944761/master.m3u8?ak=62c36c6272295cbe05fadf18132a3320&vp=0&ex=1671144273&tk=c961414fd6880b76125c2c54d58bd02c
-#EXTINF:-1,group-title="~~~CINE",Cine. The Woman King
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The Woman King
 https://zp6.xcdn.to/p/c23fae56ade4553c/720p.m3u8?ip=179.1.129.135&ex=1671144337&fm=720p&tk=94bd24af97cc26118d948978bc1dc9bf
-#EXTINF:-1,group-title="~~~CINE",Cine. The Family
+#EXTINF:-1,group-title="~~~MOVIES",|MOV|. The Family
 https://zp3.xcdn.to/m/de4c1559090fdd51/master.m3u8?ak=de2e264ca2ee25b0d4b3d6802de41f24&vp=0&ex=1671144447&tk=622e874480235770997ae6fbc7dbd6bc
 
 
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 1 - The Ship
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 1 - The Ship
 https://zp4.xcdn.to/p/e4ab49fca9c4a7dd/720p.m3u8?ip=179.1.129.135&ex=1671153107&fm=720p&tk=2ec19e31afaa864279ad2f99a8917776
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 2 - The Boy
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 2 - The Boy
 https://zp2.xcdn.to/p/8c0b8488e7b88fbb/720p.m3u8?ip=179.1.129.135&ex=1671153220&fm=720p&tk=610f7c6d5794454da9e9b17e00e11eae
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 3 - The Fog
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 3 - The Fog
 https://zp5.xcdn.to/p/bf6cd9e936957059/720p.m3u8?ip=179.1.129.135&ex=1671153438&fm=720p&tk=9cf2d7d3fe4a5c2c8b5b7f065b77dd6a
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 4 - The Fight
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 4 - The Fight
 https://zp4.xcdn.to/p/23743a910ed8f74a/720p.m3u8?ip=179.1.129.135&ex=1671153459&fm=720p&tk=0a934deb6875ff4509af2f9f65e826c6
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 5 - The Calling
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 5 - The Calling
 https://zp2.xcdn.to/p/8d36f64a6bab59e0/720p.m3u8?ip=179.1.129.135&ex=1671153492&fm=720p&tk=8bf6d828d54213dcfaed542b3051983a
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 6 - The Pyramid
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 6 - The Pyramid
 https://zp2.xcdn.to/p/8931ea727dc37fbb/720p.m3u8?ip=179.1.129.135&ex=1671153609&fm=720p&tk=d4aa7c56d556780e6eab096f7055b3af
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 7 - The Storm
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 7 - The Storm
 https://zp3.xcdn.to/p/13d0a74147d0f8b3/720p.m3u8?ip=179.1.129.135&ex=1671153565&fm=720p&tk=2fe6062ef94d1522b65103595f805b31
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. 1899 - episodio 8 - The Key
+#EXTINF:-1,group-title="~~~SERIES",|SER|. 1899 - episodio 8 - The Key
 https://zp5.xcdn.to/p/3013285da9e9b40b/720p.m3u8?ip=179.1.129.135&ex=1671152941&fm=720p&tk=7afb00581862183d4720b9fbded80774
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Criminal - episodio 1 - Isabel
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Criminal - episodio 1 - Isabel
 https://zp2.xcdn.to/p/cd6e70cd686e444d/720p.m3u8?ip=179.1.129.135&ex=1671154462&fm=720p&tk=5bc192f9d7c956c51fdf3ee71a1793ef
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Criminal - episodio 2 - Carmen
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Criminal - episodio 2 - Carmen
 https://zp4.xcdn.to/m/226cd9a81b5e5d90/master.m3u8?ak=c0d24c1c045be14fa31e09056629c196&vp=0&ex=1671154607&tk=83b31314d7bf714d928e4f2ace391ef2
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Criminal - episodio 3 - Carmelo
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Criminal - episodio 3 - Carmelo
 https://zp3.xcdn.to/p/1970421fddda4c35/720p.m3u8?ip=179.1.129.135&ex=1671154645&fm=720p&tk=879c7d9600b36339d164bca7949c597f
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 1 - Anxiety
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 1 - Anxiety
 https://zp3.xcdn.to/p/d06d6e0a6e5f038e/720p.m3u8?ip=179.1.129.135&ex=1671154822&fm=720p&tk=073302f8b900cdd93d704758ddb7b120
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 2 - Selies
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 2 - Selfies
 https://zp5.xcdn.to/p/b1dd84a3106c17ae/720p.m3u8?ip=179.1.129.135&ex=1671155176&fm=720p&tk=f2efe1095e93e0ac77012cc8b6781442
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 3 - Naked
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 3 - Naked
 https://zp4.xcdn.to/p/617fc98b89929534/720p.m3u8?ip=179.1.129.135&ex=1671155253&fm=720p&tk=5722f7622ac65e1f4ae3b770217c0d5f
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 4 - War
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 4 - War
 https://zp5.xcdn.to/p/7d2338516a9ac2e8/720p.m3u8?ip=179.1.129.135&ex=1671155282&fm=720p&tk=57192054c1981ab8862be109a9280f75
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 5 - Mourning
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 5 - Mourning
 https://zp3.xcdn.to/p/91607c89805a2664/720p.m3u8?ip=179.1.129.135&ex=1671155309&fm=720p&tk=22905fd9c479d53b2b5aee475b979b76
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 6 - Tina
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 6 - Tina
 https://zp5.xcdn.to/p/7e5006c0f6897e51/720p.m3u8?ip=179.1.129.135&ex=1671155337&fm=720p&tk=da35a61c288d51979615fc0e4c683878
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 7 - Masks
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 7 - Masks
 https://zp4.xcdn.to/p/6e1eba0775f5c13d/720p.m3u8?ip=179.1.129.135&ex=1671155360&fm=720p&tk=c31941fa1ee5afe064d30549661b05a1
-#EXTINF:-1,group-title="~~~EPISODIOS",Episodio. Elite - episodio 8 - Separation
+#EXTINF:-1,group-title="~~~SERIES",|SER|. Elite - episodio 8 - Separation
 https://zp3.xcdn.to/p/1dcc06037285dc88/720p.m3u8?ip=179.1.129.135&ex=1671155385&fm=720p&tk=1b605318837e0f4e73c632e989e88a58
 
 
