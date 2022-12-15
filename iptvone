@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1,group-title="~~~CINE",Cine. Logan
+#EXTINF:-1,group-title="~~~CINE",Cine. Emancipation
 https://zp9.xcdn.to/p/0f893b3fdcce8238/720p.m3u8?ip=179.1.129.135&ex=1671141905&fm=720p&tk=8a135a534b73a43dec39294597533d5d
-#EXTINF:-1,group-title="~~~CINE",Cine. Thor:Love and Thunder
-https://streamtwo.vidzstore.com/upload/2022/Jul/856269559.mp4
+#EXTINF:-1,group-title="~~~CINE",Cine. The Deal
+https://zp3.xcdn.to/m/9a77055d6c04ec7e/master.m3u8?ak=ca3f2ede12b3c2512fab9905ebd96b51&vp=0&ex=1671142221&tk=a18c728d50333fc7bacf95728d946355
 #EXTINF:-1,group-title="~~~CINE",Cine.Ash & Dust
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/2c736f83-56a5-4d1b-8605-fb3a856adee6/0.m3u8
 
